@@ -1,0 +1,3 @@
+[submodule "Smart-Recipes-Backend"]
+	path = Smart-Recipes-Backend
+	url = https://github.com/ruxiciortea/Smart-Recipes-Backend.git
